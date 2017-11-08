@@ -6,3 +6,9 @@ How is the staging area different from the working directory and the repository?
 
 How can you use the staging area to make sure you have one commit per logical change?
   run git diff --staged to see differences between staging area and commits
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+  To create working modifications of the same entity. To explore different variations of a particular project. Branching allows for better organization and structure
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+  You have one branch that combines the two. To help us track different commits and branches
