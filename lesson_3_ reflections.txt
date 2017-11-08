@@ -12,4 +12,7 @@ Describe the differences between forks, clones, and branches. When would you use
   A branch is a separate direction of a particular repository. When I am working on the same project, but am visiting another potential outcome.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
-  To comtrast differences between the local state and the online state
+  To contrast differences between the local state and the online state
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+  It would be very hard! We would have to email I guess!
